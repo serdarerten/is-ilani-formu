@@ -1,0 +1,10 @@
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.csproj.AssemblyReference.cache
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.Form1.resources
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.Properties.Resources.resources
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.csproj.GenerateResource.cache
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.csproj.CoreCompileInputs.cache
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\bin\Debug\checkedbox.exe.config
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\bin\Debug\checkedbox.exe
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\bin\Debug\checkedbox.pdb
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.exe
+C:\Users\Serda\OneDrive\Masaüstü\c#\checkedbox\checkedbox\obj\Debug\checkedbox.pdb
